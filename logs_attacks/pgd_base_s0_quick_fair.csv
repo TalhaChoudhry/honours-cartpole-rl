@@ -1,0 +1,2 @@
+epsilon,mean,std,k,stride,label
+0.1,500.0,0.0,20,1,base_s0_quick_fair

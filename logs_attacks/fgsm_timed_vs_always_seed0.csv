@@ -1,0 +1,3 @@
+mode,epsilon,theta,theta_dot_thr,x_edge,attacked_pct,mean,std
+always,0.05,,,,100.0,484.7,82.4
+timed,0.05,0.10,>0.35,|x|>1.8,4.87,392.5,194.8

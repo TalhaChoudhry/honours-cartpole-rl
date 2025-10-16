@@ -1,0 +1,2 @@
+label,epsilon,steps,alpha,restarts,stride,mean,std
+baseline_s0_hi,0.05,40,0.00125,5,2,284.26666666666665,173.05354341616032

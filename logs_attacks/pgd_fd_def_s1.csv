@@ -1,0 +1,5 @@
+epsilon,mean,std,k,alpha_scale,episodes,label,model
+0.01,500.0,0.0,10,1.0,30,def_fd_s1,dqn_cartpole_seed1_advpgd_best.zip
+0.02,500.0,0.0,10,1.0,30,def_fd_s1,dqn_cartpole_seed1_advpgd_best.zip
+0.05,455.8333333333333,132.52523868640603,10,1.0,30,def_fd_s1,dqn_cartpole_seed1_advpgd_best.zip
+0.1,39.36666666666667,31.772612245279564,10,1.0,30,def_fd_s1,dqn_cartpole_seed1_advpgd_best.zip

@@ -1,0 +1,7 @@
+attack,mode,epsilon,mean,std,episodes,label
+fgsm,untargeted,0.0,169.56666666666666,6.0148889340443255,30,defense_s2
+fgsm,untargeted,0.01,175.93333333333334,6.01627422542852,30,defense_s2
+fgsm,untargeted,0.02,195.1,7.3862484839508795,30,defense_s2
+fgsm,untargeted,0.05,500.0,0.0,30,defense_s2
+fgsm,untargeted,0.1,219.63333333333333,88.26266984908676,30,defense_s2
+fgsm,untargeted,0.2,54.3,48.92248971587607,30,defense_s2

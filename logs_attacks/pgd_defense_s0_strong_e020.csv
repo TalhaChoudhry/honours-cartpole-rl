@@ -1,0 +1,2 @@
+epsilon,mean,std,label,steps,alpha,restarts
+0.2,13.55,1.8296174463531987,defense_s0_strong,40,0.020000000000000004,3

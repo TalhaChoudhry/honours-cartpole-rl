@@ -1,0 +1,7 @@
+label,epsilon,steps,alpha,restarts,stride,mean,std
+defense_pgd_s0_q,0.01,20,0.0005,2,3,500.0,0.0
+defense_pgd_s0_q,0.02,20,0.001,2,3,500.0,0.0
+defense_pgd_s0_q,0.05,20,0.0025,2,3,468.2,95.4
+defense_pgd_s0_q,0.1,20,0.005,2,3,71.2,57.61562288129844
+defense_pgd_s0_q,0.15,20,0.0075,2,3,50.1,22.726416347501868
+defense_pgd_s0_q,0.2,20,0.01,2,3,35.7,19.214838016491317

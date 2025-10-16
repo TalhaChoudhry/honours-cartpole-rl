@@ -1,0 +1,2 @@
+epsilon,mean,std,label,steps,alpha,restarts
+0.1,310.45,136.1317284838476,baseline_s0_strong,40,0.010000000000000002,3
