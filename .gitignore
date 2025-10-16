@@ -1,0 +1,17 @@
+# --- Python/venv ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# --- Artifacts ---
+logs*/
+videos/
+figures/archive/
+
+# --- OS/editor junk ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
