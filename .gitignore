@@ -1,16 +1,16 @@
-# --- Python/venv ---
+# Python envs
 .venv/
 venv/
 env/
 __pycache__/
 *.py[cod]
 
-# --- Artifacts ---
+# Artifacts
 logs*/
 videos/
 figures/archive/
 
-# --- OS/editor junk ---
+# OS/editor
 .DS_Store
 Thumbs.db
 .idea/
