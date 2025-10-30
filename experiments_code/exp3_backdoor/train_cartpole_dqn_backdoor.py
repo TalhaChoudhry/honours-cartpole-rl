@@ -1,7 +1,5 @@
 # train_cartpole_dqn_backdoor.py
 # Backdoor fine-tune for CartPole-v1.
-# Option A (recommended): --from_clean_model <baseline zip> loads your Exp-1 clean model and *only* trains the backdoor.
-# Option B: If --from_clean_model is omitted, it will do a quick clean pretrain then backdoor train (but A is more reliable).
 
 import os
 import argparse
