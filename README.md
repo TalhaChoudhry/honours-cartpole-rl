@@ -2,9 +2,11 @@
 
 This repository contains the implementation for my Honours thesis at the University of Technology Sydney (UTS), supervised by Dr. Yanjun Zhang.
 
+---
+
 ## Environment Setup
 
-**Requirements**
+### Requirements
 - Python 3.10 or later  
 - Gymnasium 0.29 or higher  
 - Stable Baselines3 2.2.1  
@@ -12,11 +14,12 @@ This repository contains the implementation for my Honours thesis at the Univers
 - NumPy  
 - Matplotlib  
 
-To install dependencies:
+### To install dependencies
 ```bash
 pip install gymnasium stable-baselines3 torch numpy matplotlib
+```
 
-Running the Experiments
+### Running the Experiments
 
 Each folder corresponds to a major experiment:
 
@@ -31,15 +34,14 @@ Each folder corresponds to a major experiment:
 5_blackbox_transfer/ – Surrogate PPO attack and transfer evaluation
 
 To train or evaluate an agent, run the following from the project root:
-
+```
 python train_dqn_baseline.py
 python evaluate_attack.py
-
-
+```
 Each script will automatically save:
 
-Model checkpoints (.zip files) in the models/ directory
+- Model checkpoints (.zip files) in the models/ directory
+- Episode logs (.csv files) in the results/ directory
+- Visualisations (.png figures) in the figures/ directory
 
-Episode logs (.csv files) in the results/ directory
 
-Visualisations (.png figures) in the figures/ directory
